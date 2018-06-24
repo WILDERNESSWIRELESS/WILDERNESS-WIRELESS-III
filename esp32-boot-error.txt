@@ -1,0 +1,181 @@
+rst:0x8 (TG1WDT_SYS_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0018,len:4
+load:0x3fff001c,len:4436
+load:0x40078000,len:0
+load:0x40078000,len:11816
+entry 0x4007a9fc
+.[0;33mW (85) boot: PRO CPU has been reset by WDT..[0m
+.[0;33mW (85) boot: WDT reset info: PRO CPU PC=0x4008ba66.[0m
+.[0;33mW (85) boot: WDT reset info: APP CPU PC=0x6a348fba.[0m
+.[0;32mI (425) cpu_start: Pro cpu up..[0m
+.[0;32mI (425) cpu_start: Single core mode.[0m
+.[0;32mI (425) heap_init: Initializing. RAM available for dynamic allocation:.[0m
+.[0;32mI (429) heap_init: At 3FFAE6E0 len 00001920 (6 KiB): DRAM.[0m
+.[0;32mI (435) heap_init: At 3FFC50C0 len 0001AF40 (107 KiB): DRAM.[0m
+.[0;32mI (441) heap_init: At 3FFE0440 len 00003BC0 (14 KiB): D/IRAM.[0m
+.[0;32mI (447) heap_init: At 3FFE4350 len 0001BCB0 (111 KiB): D/IRAM.[0m
+.[0;32mI (454) heap_init: At 4008DE34 len 000121CC (72 KiB): IRAM.[0m
+.[0;32mI (460) cpu_start: Pro cpu start user code.[0m
+.[0;32mI (30) cpu_start: Starting scheduler on PRO CPU..[0m
+Guru Meditation Error: Core  0 panic'ed (InstrFetchProhibited)
+. Exception was unhandled.
+ets Jun  8 2016 00:22:57
+
+rst:0x8 (TG1WDT_SYS_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0018,len:4
+load:0x3fff001c,len:4436
+load:0x40078000,len:0
+load:0x40078000,len:11816
+entry 0x4007a9fc
+.[0;33mW (85) boot: PRO CPU has been reset by WDT..[0m
+.[0;33mW (85) boot: WDT reset info: PRO CPU PC=0x4008ba5d.[0m
+.[0;33mW (85) boot: WDT reset info: APP CPU PC=0x6a348fba.[0m
+.[0;32mI (425) cpu_start: Pro cpu up..[0m
+.[0;32mI (425) cpu_start: Single core mode.[0m
+.[0;32mI (425) heap_init: Initializing. RAM available for dynamic allocation:.[0m
+.[0;32mI (429) heap_init: At 3FFAE6E0 len 00001920 (6 KiB): DRAM.[0m
+.[0;32mI (435) heap_init: At 3FFC50C0 len 0001AF40 (107 KiB): DRAM.[0m
+.[0;32mI (441) heap_init: At 3FFE0440 len 00003BC0 (14 KiB): D/IRAM.[0m
+.[0;32mI (447) heap_init: At 3FFE4350 len 0001BCB0 (111 KiB): D/IRAM.[0m
+.[0;32mI (454) heap_init: At 4008DE34 len 000121CC (72 KiB): IRAM.[0m
+.[0;32mI (460) cpu_start: Pro cpu start user code.[0m
+.[0;32mI (30) cpu_start: Starting scheduler on PRO CPU..[0m
+Guru Meditation Error: Core  0 panic'ed (InstrFetchProhibited)
+. Exception was unhandled.
+ets Jun  8 2016 00:22:57
+
+rst:0x8 (TG1WDT_SYS_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0018,len:4
+load:0x3fff001c,len:4436
+load:0x40078000,len:0
+load:0x40078000,len:11816
+entry 0x4007a9fc
+.[0;33mW (85) boot: PRO CPU has been reset by WDT..[0m
+.[0;33mW (85) boot: WDT reset info: PRO CPU PC=0x4008ba60.[0m
+.[0;33mW (85) boot: WDT reset info: APP CPU PC=0x6a348fba.[0m
+.[0;32mI (425) cpu_start: Pro cpu up..[0m
+.[0;32mI (425) cpu_start: Single core mode.[0m
+.[0;32mI (425) heap_init: Initializing. RAM available for dynamic allocation:.[0m
+.[0;32mI (429) heap_init: At 3FFAE6E0 len 00001920 (6 KiB): DRAM.[0m
+.[0;32mI (435) heap_init: At 3FFC50C0 len 0001AF40 (107 KiB): DRAM.[0m
+.[0;32mI (441) heap_init: At 3FFE0440 len 00003BC0 (14 KiB): D/IRAM.[0m
+.[0;32mI (447) heap_init: At 3FFE4350 len 0001BCB0 (111 KiB): D/IRAM.[0m
+.[0;32mI (454) heap_init: At 4008DE34 len 000121CC (72 KiB): IRAM.[0m
+.[0;32mI (460) cpu_start: Pro cpu start user code.[0m
+.[0;32mI (30) cpu_start: Starting scheduler on PRO CPU..[0m
+Guru Meditation Error: Core  0 panic'ed (InstrFetchProhibited)
+. Exception was unhandled.
+ets Jun  8 2016 00:22:57
+
+rst:0x8 (TG1WDT_SYS_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0018,len:4
+load:0x3fff001c,len:4436
+load:0x40078000,len:0
+load:0x40078000,len:11816
+entry 0x4007a9fc
+.[0;33mW (85) boot: PRO CPU has been reset by WDT..[0m
+.[0;33mW (85) boot: WDT reset info: PRO CPU PC=0x4008ba63.[0m
+.[0;33mW (85) boot: WDT reset info: APP CPU PC=0x6a348fba.[0m
+.[0;32mI (425) cpu_start: Pro cpu up..[0m
+.[0;32mI (425) cpu_start: Single core mode.[0m
+.[0;32mI (425) heap_init: Initializing. RAM available for dynamic allocation:.[0m
+.[0;32mI (429) heap_init: At 3FFAE6E0 len 00001920 (6 KiB): DRAM.[0m
+.[0;32mI (435) heap_init: At 3FFC50C0 len 0001AF40 (107 KiB): DRAM.[0m
+.[0;32mI (441) heap_init: At 3FFE0440 len 00003BC0 (14 KiB): D/IRAM.[0m
+.[0;32mI (447) heap_init: At 3FFE4350 len 0001BCB0 (111 KiB): D/IRAM.[0m
+.[0;32mI (454) heap_init: At 4008DE34 len 000121CC (72 KiB): IRAM.[0m
+.[0;32mI (460) cpu_start: Pro cpu start user code.[0m
+.[0;32mI (30) cpu_start: Starting scheduler on PRO CPU..[0m
+Guru Meditation Error: Core  0 panic'ed (InstrFetchProhibited)
+. Exception was unhandled.
+ets Jun  8 2016 00:22:57
+
+rst:0x8 (TG1WDT_SYS_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0018,len:4
+load:0x3fff001c,len:4436
+load:0x40078000,len:0
+load:0x40078000,len:11816
+entry 0x4007a9fc
+.[0;33mW (85) boot: PRO CPU has been reset by WDT..[0m
+.[0;33mW (85) boot: WDT reset info: PRO CPU PC=0x4008ba60.[0m
+.[0;33mW (85) boot: WDT reset info: APP CPU PC=0x6a348fba.[0m
+.[0;32mI (425) cpu_start: Pro cpu up..[0m
+.[0;32mI (425) cpu_start: Single core mode.[0m
+.[0;32mI (425) heap_init: Initializing. RAM available for dynamic allocation:.[0m
+.[0;32mI (429) heap_init: At 3FFAE6E0 len 00001920 (6 KiB): DRAM.[0m
+.[0;32mI (435) heap_init: At 3FFC50C0 len 0001AF40 (107 KiB): DRAM.[0m
+.[0;32mI (441) heap_init: At 3FFE0440 len 00003BC0 (14 KiB): D/IRAM.[0m
+.[0;32mI (447) heap_init: At 3FFE4350 len 0001BCB0 (111 KiB): D/IRAM.[0m
+.[0;32mI (454) heap_init: At 4008DE34 len 000121CC (72 KiB): IRAM.[0m
+.[0;32mI (460) cpu_start: Pro cpu start user code.[0m
+.[0;32mI (30) cpu_start: Starting scheduler on PRO CPU..[0m
+Guru Meditation Error: Core  0 panic'ed (InstrFetchProhibited)
+. Exception was unhandled.
+ets Jun  8 2016 00:22:57
+
+rst:0x8 (TG1WDT_SYS_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0018,len:4
+load:0x3fff001c,len:4436
+load:0x40078000,len:0
+load:0x40078000,len:11816
+entry 0x4007a9fc
+.[0;33mW (85) boot: PRO CPU has been reset by WDT..[0m
+.[0;33mW (85) boot: WDT reset info: PRO CPU PC=0x4008ba63.[0m
+.[0;33mW (85) boot: WDT reset info: APP CPU PC=0x6a348fba.[0m
+.[0;32mI (425) cpu_start: Pro cpu up..[0m
+.[0;32mI (425) cpu_start: Single core mode.[0m
+.[0;32mI (425) heap_init: Initializing. RAM available for dynamic allocation:.[0m
+.[0;32mI (429) heap_init: At 3FFAE6E0 len 00001920 (6 KiB): DRAM.[0m
+.[0;32mI (435) heap_init: At 3FFC50C0 len 0001AF40 (107 KiB): DRAM.[0m
+.[0;32mI (441) heap_init: At 3FFE0440 len 00003BC0 (14 KiB): D/IRAM.[0m
+.[0;32mI (447) heap_init: At 3FFE4350 len 0001BCB0 (111 KiB): D/IRAM.[0m
+.[0;32mI (454) heap_init: At 4008DE34 len 000121CC (72 KiB): IRAM.[0m
+.[0;32mI (460) cpu_start: Pro cpu start user code.[0m
+.[0;32mI (30) cpu_start: Starting scheduler on PRO CPU..[0m
+Guru Meditation Error: Core  0 panic'ed (InstrFetchProhibited)
+. Exception was unhandled.
+ets Jun  8 2016 00:22:57
+
+rst:0x8 (TG1WDT_SYS_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0018,len:4
+load:0x3fff001c,len:4436
+load:0x40078000,len:0
+load:0x40078000,len:11816
+entry 0x4007a9fc
+.[0;33mW (85) boot: PRO CPU has been reset by WDT..[0m
+.[0;33mW (85) boot: WDT reset info: PRO CPU PC=0x4008ba60.[0m
+.[0;33mW (85) boot: WDT reset info: APP CPU PC=0x6a348fba.[0m
+.[0;32mI (425) cpu_start: Pro cpu up..[0m
+.[0;32mI (425) cpu_start: Single core mode.[0m
+.[0;32mI (425) heap_init: Initializing. RAM available for dynamic allocation:.[0m
+.[0;32mI (429) heap_init: At 3FFAE6E0 len 00001920 (6 KiB): DRAM.[0m
+.[0;32mI (435) heap_init: At 3FFC50C0 len 0001AF40 (107 KiB): DRAM.[0m
+.[0;32mI (441) heap_init: At 3FFE0440 len 00003BC0 (14 KiB): D/IRAM.[0m
+.[0;32mI (447) heap_init: At 3FFE4350 len 0001BCB0 (111 KiB): D/IRAM.[0m
+.[0;32mI (454) heap_init: At 4008DE34 len 000121CC (72 KiB): IRAM.[0m
+.[0;32mI (460) cpu_start: Pro cpu start user code.[0m
+.[0;32mI (30) cpu_start: Starting scheduler on PRO CPU..[0m
+Guru Meditation Error: Core  0 panic'ed (InstrFetchProhibited)
+. Exception was unhandled.
+ets Jun  8 2016 00:22:57

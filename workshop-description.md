@@ -1,0 +1,11 @@
+Wilderness Wireless Workshop
+
+Radio is a natural resource that has been commandeered by our technological society for the purposes of communication. Despite the utopian visions of a radiophonic future called for by the avant-garde early in its history, radio's dominant use has been a one-to-many conveyance for entertainment and advertising. The internet, too, promises its utopia as the great equalizer, providing free access to information and communication. In either case, regulation, centralization of power and reliance on infrastructure can lead to control to the extent that oppressive regimes can filter and block content, and in the "free" world, the battles for privacy and for net neutrality are currently being waged.
+
+This three-day workshop is an expansion of the popular Wilderness Wireless Workshop that has appeared at the NYC-based Radical Networks Conference for the past two years. The focus of the workshop is on the thinking around, creation of and use of off-the-grid, infrastructureless communications networks for creative use. The workshop gains its inspiration from the free-radio movements, exploring notions of decentralization, free-speech and activism and takes cues from nature about how to operate in a technologically-mediated world in a not-always-on, resource-conscious manner.
+
+Participants will construct two devices during the workshop: the first is a DIY, micro-power FM radio transmitter which will be used as an entry-point into the world of radio communications, and the use of radio as a creative medium. The second device is a solar-powered, WiFi access point and web server, which will be the focus of the workshop's creative output. Subjects to be explored include the physical nature of radio and the electromagnetic spectrum, alternative energy, wireless networks, and transmission- and net-art. Participants will gain hands-on skills in electronics construction and soldering, embedded computing and web- and python programming.
+
+Each participant will leave with their own micro-power FM transmitter. An additional workshop fee of 75EUR will be charged if they would like to keep their wilderness wireless devices.
+
+Participants are required to bring a laptop. WIN, OSX and LINUX supported! The workshop does not assume any prior knowledge or skills. Everyone is welcome!

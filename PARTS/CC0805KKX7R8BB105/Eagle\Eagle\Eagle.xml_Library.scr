@@ -1,0 +1,144 @@
+# Created by Ultra Librarian Gold 8.2.93 Copyright © 1999-2017
+# Frank Frank, Accelerated Designs
+
+Grid mil;
+Set Wire_Bend 2;
+
+
+Edit 'YAG_CC0805.pac';
+Layer 1;
+Smd '1' 38 57 -0 R0 (-32.5 0);
+Layer 1;
+Smd '2' 38 57 -0 R0 (32.5 0);
+Layer 1;
+Layer 21;
+Layer 51;
+Wire 6 (-14 -28) (-14 28);
+Wire 6 (-14 28) (-44 28);
+Wire 6 (-44 28) (-44 -28);
+Wire 6 (-44 -28) (-14 -28);
+Wire 6 (13 29) (14 -28);
+Wire 6 (14 -28) (44 -28);
+Wire 6 (44 -28) (43 29);
+Wire 6 (43 29) (13 29);
+Wire 6 (-44 -28) (44 -28);
+Wire 6 (44 -28) (44 28);
+Wire 6 (44 28) (-44 28);
+Wire 6 (-44 28) (-44 -28);
+Layer 25;
+Change Size 50;
+Change Ratio 6;
+Text '>Name' SR0 (-129 -25);
+Layer 27;
+
+Edit 'YAG_CC0805-M.pac';
+Layer 1;
+Smd '1' 42 61 -0 R0 (-34.5 0);
+Layer 1;
+Smd '2' 42 61 -0 R0 (34.5 0);
+Layer 1;
+Layer 21;
+Layer 51;
+Wire 6 (-14 -28) (-14 28);
+Wire 6 (-14 28) (-44 28);
+Wire 6 (-44 28) (-44 -28);
+Wire 6 (-44 -28) (-14 -28);
+Wire 6 (13 29) (14 -28);
+Wire 6 (14 -28) (44 -28);
+Wire 6 (44 -28) (43 29);
+Wire 6 (43 29) (13 29);
+Wire 6 (-44 -28) (44 -28);
+Wire 6 (44 -28) (44 28);
+Wire 6 (44 28) (-44 28);
+Wire 6 (-44 28) (-44 -28);
+Layer 25;
+Change Size 50;
+Change Ratio 6;
+Text '>Name' SR0 (-129 -25);
+Layer 27;
+
+Edit 'YAG_CC0805-L.pac';
+Layer 1;
+Smd '1' 34 57 -0 R0 (-30.5 0);
+Layer 1;
+Smd '2' 34 57 -0 R0 (30.5 0);
+Layer 1;
+Layer 21;
+Layer 51;
+Wire 6 (-14 -28) (-14 28);
+Wire 6 (-14 28) (-44 28);
+Wire 6 (-44 28) (-44 -28);
+Wire 6 (-44 -28) (-14 -28);
+Wire 6 (13 29) (14 -28);
+Wire 6 (14 -28) (44 -28);
+Wire 6 (44 -28) (43 29);
+Wire 6 (43 29) (13 29);
+Wire 6 (-44 -28) (44 -28);
+Wire 6 (44 -28) (44 28);
+Wire 6 (44 28) (-44 28);
+Wire 6 (-44 28) (-44 -28);
+Layer 25;
+Change Size 50;
+Change Ratio 6;
+Text '>Name' SR0 (-129 -25);
+Layer 27;
+
+Edit 'CAPH.sym';
+Layer 94;
+Pin '22' Pas None Short R180 Off 1 (300 0)
+Pin '11' Pas None Short R0 Off 1 (0 0)
+Wire 8 (137 -75) (137 75);
+Wire 8 (162 -75) (162 75);
+Wire 8 (162 0) (200 0);
+Wire 8 (100 0) (137 0);
+Layer 97;
+Layer 96;
+Change Size 137;
+Change Ratio 10;
+Text '>Value' SR0 (-203 -218);
+Layer 95;
+Change Size 137;
+Change Ratio 10;
+Text '>Name' SR0 (-161 82);
+
+Edit 'CAPV.sym';
+Layer 94;
+Pin '2' Pas None Short R90 Off 1 (0 -300)
+Pin '1' Pas None Short R270 Off 1 (0 0)
+Wire 8 (-75 -137) (75 -137);
+Wire 8 (-75 -162) (75 -162);
+Wire 8 (0 -162) (0 -200);
+Wire 8 (0 -100) (0 -137);
+Layer 97;
+Layer 96;
+Change Size 137;
+Change Ratio 10;
+Text '>Value' SR0 (100 -294);
+Layer 95;
+Change Size 137;
+Change Ratio 10;
+Text '>Name' SR0 (100 -168);
+
+Edit 'CC0805KKX7R8BB105.dev';
+Prefix 'C';
+Description '';
+Value Off;
+Add CAPH 'A' Next  1 (0 0);
+Package 'YAG_CC0805';
+Technology '';
+Attribute Manufacturer_Part_Number 'CC0805KKX7R8BB105';
+Attribute Vendor 'Yageo';
+Connect 'A.11' '1';
+Connect 'A.22' '2';
+Package 'YAG_CC0805-M' 'YAG_CC0805-M';
+Technology '';
+Attribute Manufacturer_Part_Number 'CC0805KKX7R8BB105';
+Attribute Vendor 'Yageo';
+Connect 'A.11' '1';
+Connect 'A.22' '2';
+Package 'YAG_CC0805-L' 'YAG_CC0805-L';
+Technology '';
+Attribute Manufacturer_Part_Number 'CC0805KKX7R8BB105';
+Attribute Vendor 'Yageo';
+Connect 'A.11' '1';
+Connect 'A.22' '2';
