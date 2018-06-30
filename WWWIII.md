@@ -1,3 +1,13 @@
+# this workshop is mainly about energy
+
+I would like to beset you with an ecology of problems
+
+We have to work within constraints because the future is not plenty
+
+Not everything is possible. How do we work with what we have?
+
+
+
 # Wilderness Wireless Workshop III
 
 ## Day 1 (8hrs: 10:00-18:00)
@@ -115,6 +125,8 @@ export AMPY_PORT
 install picoweb manually from github, upload via ampy
 * upip install("micropython-logging")
 * upip install("micropython-pkg_resources")
+* upip install("uasyncio")
+* upip install("utemplate")
 
 ## AP Authmodes
 
@@ -128,3 +140,29 @@ install picoweb manually from github, upload via ampy
 
 
 python esptool.py -p /dev/tty.SLAB_USBtoUART --baud 115200 write_flash --flash_size=detect 0x1000 ~/Desktop/esp32-20180511-v1.9.4.bin
+
+#IoT
+#History of Internet
+
+
+# SCENARIOS / BEHAVIORS
+
+SHYNESS
+
+A WifiNetwork that only broadcasts when no one is around.
+
+NOCTOURNALISM
+
+A wifi network that only broadcasts at night
+
+INTROVERT
+
+EXTROVERT
+
+What are the possibilities when you can hold a web server in your hand?
+
+How can a webserver be embodied?
+
+What is the interaction of the webserver and space?
+
+What is a webserver?
