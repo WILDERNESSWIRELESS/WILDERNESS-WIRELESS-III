@@ -112,6 +112,8 @@ Command Line!
 
 ## AMPY
 
+https://github.com/adafruit/ampy
+
 ### to set a shell variable:
 
 set AMPY_PORT /dev/tty.usbserialAL00FPKS
@@ -166,3 +168,17 @@ How can a webserver be embodied?
 What is the interaction of the webserver and space?
 
 What is a webserver?
+
+# LINKS
+
+## Sparkfun Battery Babysitter Hookup Guide
+
+https://learn.sparkfun.com/tutorials/battery-babysitter-hookup-guide
+
+## Adafruit Solar Charger Design Notes
+
+https://learn.adafruit.com/usb-dc-and-solar-lipoly-charger/design-notes
+
+## National Renewable Energy Laboratory
+
+https://www.nrel.gov/workingwithus/re-solar.html
