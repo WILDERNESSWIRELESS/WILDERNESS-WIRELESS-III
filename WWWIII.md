@@ -112,7 +112,7 @@ Command Line!
 
 ## AMPY
 
-https://github.com/adafruit/ampy
+https://github.com/adafruit/ampy`
 
 ### to set a shell variable:
 
@@ -169,6 +169,24 @@ What is the interaction of the webserver and space?
 
 What is a webserver?
 
+HIBERNATION
+
+# LED Interface
+
+LED 0 picoweb activity
+
+LED 1 ESP Main
+
+LED 2 ESP Boot.py
+
+LED 3 Blink if PWR > BATHI
+
+LED 4 Blink if UP and BATLO < PWR < BATHI
+
+LED 5 Blink if UP and PWR < BATLO
+
+
+
 # LINKS
 
 ## Sparkfun Battery Babysitter Hookup Guide
@@ -182,3 +200,7 @@ https://learn.adafruit.com/usb-dc-and-solar-lipoly-charger/design-notes
 ## National Renewable Energy Laboratory
 
 https://www.nrel.gov/workingwithus/re-solar.html
+
+## Wisconsin vs Foxconn
+
+https://www.wiscontext.org/four-pollutants-illustrate-hazards-of-electronics-manufacturing
