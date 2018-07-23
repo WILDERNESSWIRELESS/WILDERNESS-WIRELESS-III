@@ -35,6 +35,8 @@ https://www.sciencealert.com/this-awesome-periodic-table-shows-the-origins-of-ev
 
 Radio as an agent of Change -> Technology as an agent of change
 
+Occupation of space and the sky
+
 Radical vs tactical
 
 radio doesn't mean to be listened to
