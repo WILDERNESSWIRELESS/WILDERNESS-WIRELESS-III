@@ -6,7 +6,7 @@
 - Critical Making
 - Electronic Disobedience
 - The Backstory
-
+- TV Man Story, tube testers, repairable commodities
 
 ## Radio and the Universe
 

@@ -8,6 +8,8 @@ Not everything is possible. How do we work with what we have?
 
 Un-tether
 
+Field Guide
+
 # Wilderness Wireless Workshop III
 
 ## Day 1 (8hrs: 10:00-18:00)
@@ -25,6 +27,7 @@ Un-tether
 - Radio TX build
 - Transmission Arts
   - Sally Ann McIntyre
+  - http://www.haineshinterding.net/category/hinterding/
   - Other artists...
 - Radio vs Internet
 
@@ -204,3 +207,7 @@ https://www.nrel.gov/workingwithus/re-solar.html
 ## Wisconsin vs Foxconn
 
 https://www.wiscontext.org/four-pollutants-illustrate-hazards-of-electronics-manufacturing
+
+## Have We Entered the Anthropocene (2010)
+
+http://www.igbp.net/news/opinion/opinion/haveweenteredtheanthropocene.5.d8b4c3c12bf3be638a8000578.html
