@@ -6,7 +6,14 @@
 - Critical Making
 - Electronic Disobedience
 - The Backstory
-- TV Man Story, tube testers, repairable commodities
+- Reasons:
+  - Flip the roles of consumer and producer
+  - Engage in a political act by making something
+  - Raise awareness of environmental impact of our technologies
+  - Explore a decentralized Web
+  - Adjust habits, expectations and desires
+  - 
+
 
 ## Radio and the Universe
 
