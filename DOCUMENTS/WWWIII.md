@@ -127,11 +127,26 @@ export AMPY_PORT
 ### Read, Evaluate, Print, Loop
 
 ## Installing PicoWeb
-install picoweb manually from github, upload via ampy
-* upip install("micropython-logging")
-* upip install("micropython-pkg_resources")
-* upip install("uasyncio")
-* upip install("utemplate")
+* from terminal:
+* ampy put boot.py
+* connect to esp32 with coolterm
+* import upip
+* upip.install("micropython-logging")
+* upip.install("micropython-pkg_resources")
+* upip.install("micropython-uasyncio")
+* upip.install("utemplate")
+* import os
+* os.mkdir("picoweb")
+* disconnect coolterm
+* go back to terminal
+* ampy put __init__.py picoweb/__init__.py
+* ampy put utils.py picoweb/utils.py
+* ampy put microDNSSrv.py
+* ampy put index.html
+* ampy put style.css
+* ampy put main.py
+* RESET
+
 
 ## AP Authmodes
 

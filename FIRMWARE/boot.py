@@ -8,17 +8,17 @@ import network
 
 from machine import Pin
 
-# Join a network
+# Join a network: Only needed for upip installs
 
-sta=network.WLAN(network.STA_IF)
-sta.active(True)
-sta.connect("NETGEAR22","ancientstreet088")
+#sta=network.WLAN(network.STA_IF)
+#sta.active(True)
+#sta.connect("WildernessWireless","WWWIII2018")
 
-# Create a network
+# Create a network:
 
 ap=network.WLAN(network.AP_IF)
 ap.active(True)
-ap.config(essid="\u219f\u219f\u219fWW\u219f\u219f\u219f", authmode=0)
+ap.config(essid="\u219f\u219f\u219fWW14\u219f\u219f\u219f", authmode=0)
 ap.ifconfig(('10.0.0.1','255.255.255.0','10.0.0.1','10.0.0.1'))
 
 # This is the signal to the AVR
