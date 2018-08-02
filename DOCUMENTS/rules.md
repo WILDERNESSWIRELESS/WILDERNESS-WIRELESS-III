@@ -1,0 +1,7 @@
+- There are no mistakes
+- There are no dumb questions
+- Ask questions!
+- Be free to be yourself (tell us your pronouns)
+- Accept others' differences
+- Treat others with kindness and compassion
+- The studio area to the back is off limits except for toilet
