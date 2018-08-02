@@ -1,8 +1,6 @@
-# this workshop is mainly about energy
+# this workshop is mainly about energy and community
 
-I would like to beset you with an ecology of problems
-
-We have to work within constraints because the future is not plenty
+We have to work within constraints because the future may not be plentiful
 
 Not everything is possible. How do we work with what we have?
 
@@ -16,6 +14,8 @@ Field Guide
 
 - Radio as natural phenomenon
   - Origin of Universe
+  - Cosmic Microwave Background: Alpher & Herman
+  - Expanding Universe: Hubble & LeMaitre
   - Electromagnetic Spectrum
   - Radio and light comparison
   - Natural Radio
@@ -23,7 +23,7 @@ Field Guide
 - SDR
 - Materials in electronics
   - Silicon
-- Nature of energy
+- Nature of energy, electronics crash course
 - Radio TX build
 - Transmission Arts
   - Sally Ann McIntyre
@@ -31,7 +31,8 @@ Field Guide
   - Other artists...
 - Radio vs Internet
 
-- After hours Pub Time!
+- Transmissions in Hasenheide!
+- After hours Pub Time?
 
 ## Day 2 (8hrs: 10:00-18:00)
 
@@ -40,7 +41,7 @@ Field Guide
   - not always on
   - charge/discharge cycle
   - behaviors
-    - nocturnal, intermittent
+    - nocturnal, intermittent, shy
 - hardware components
   - Solar Panel
     - How are they made?
@@ -77,17 +78,7 @@ Field Guide
 
 ##1
 
-Kogawa TX
-WiFi AP in a Jam Jar
-Full WWIII Build
-
-https://www.adafruit.com/product/500 $39
-
-https://www.sparkfun.com/products/13782 $39
-
-POST-KOGAWA PRACTICE
-
-↟↟↟↟↟↟↟↟
+↟↟↟WW↟↟↟
 
 The Wilderness Wireless Workshop aims to break participants of their always-on mentality.
 

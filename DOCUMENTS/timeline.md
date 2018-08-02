@@ -15,5 +15,9 @@ Radio Act of 1912 (in wake of Titanic): Broadcasters need a license
 1920: KDKA PGH First Commercial Station to be licensed
 1927:Radio Act of 1927 => Federal Radio Commission
 FRC: The five-person FRC was given the power to grant and deny licenses, and to assign frequencies and power levels for each licensee
+1927: Farnsworth patents all-electronic television, makes first broadcast
 1929: Spark gap transmission largely abandoned
+1933: Armstrong patents FM radio
 1934:Communications Act of 1934 -> establishes FCC
+1953: Color television introduced
+1987: GPS constellation launched
