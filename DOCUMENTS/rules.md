@@ -5,3 +5,4 @@
 - Accept others' differences
 - Treat others with kindness and compassion
 - The studio area to the back is off limits except for toilet
+- Photographs: Do you or don't you want to be photographed?
