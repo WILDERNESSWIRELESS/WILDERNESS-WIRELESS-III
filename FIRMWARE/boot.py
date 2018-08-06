@@ -6,6 +6,8 @@
 
 import network
 import os
+import utime
+import random
 
 from machine import Pin
 
@@ -17,10 +19,17 @@ from machine import Pin
 
 # Create a network:
 
+essids=["a________", "l________", "z________"]
 ap=network.WLAN(network.AP_IF)
-ap.active(True)
-ap.config(essid="My Rad WLAN", authmode=0)
-ap.ifconfig(('10.0.0.1','255.255.255.0','10.0.0.1','10.0.0.1'))
+
+while True:
+    ap.active(True)
+    ap.ifconfig(('10.0.0.1','255.255.255.0','10.0.0.1','10.0.0.1'))
+    randint = random.randint(0,2)
+    ap.config(essid=essids[randint], authmode=0)
+    utime.sleep(5)
+    ap.active(False)
+    utime.sleep(5)
 
 # This is the signal to the AVR
 

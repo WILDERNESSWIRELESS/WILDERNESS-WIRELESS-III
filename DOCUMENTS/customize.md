@@ -25,9 +25,7 @@ Type ^C (control-C)
 
 ```
 import os
-os.listdir()
 os.remove("main.py")
-os.listdir()
 ```
 
 Disconnect
