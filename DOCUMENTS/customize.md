@@ -10,7 +10,7 @@ Install adafruit-ampy
 
 - TO DO
 
-## Stopping the main.py process
+## STOP main.py PROCESS
 
 ### COOLTERM
 

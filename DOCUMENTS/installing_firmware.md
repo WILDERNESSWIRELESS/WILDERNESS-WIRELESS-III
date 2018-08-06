@@ -33,6 +33,7 @@ python esptool.py -p /dev/tty.SLAB_USBtoUART --baud 115200 write_flash --flash_s
 * ampy put style.css
 * ampy put main.py
 * RESET
+
 ## Installing Web and DNS Servers
 
 ## Installing Content Files
