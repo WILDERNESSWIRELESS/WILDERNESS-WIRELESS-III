@@ -19,17 +19,10 @@ from machine import Pin
 
 # Create a network:
 
-essids=["a________", "l________", "z________"]
 ap=network.WLAN(network.AP_IF)
-
-while True:
-    ap.active(True)
-    ap.ifconfig(('10.0.0.1','255.255.255.0','10.0.0.1','10.0.0.1'))
-    randint = random.randint(0,2)
-    ap.config(essid=essids[randint], authmode=0)
-    utime.sleep(5)
-    ap.active(False)
-    utime.sleep(5)
+ap.active(True)
+ap.ifconfig(('10.0.0.1','255.255.255.0','10.0.0.1','10.0.0.1'))
+ap.config(essid="\u219f\u219f\u219f\u219f\u219f\u219f\u219f\u219f", authmode=0)
 
 # This is the signal to the AVR
 
